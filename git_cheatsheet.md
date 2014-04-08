@@ -1,3 +1,4 @@
+COMMITTING A CHANGE ONLINE
 Git Commands Cheatsheet
 
 1) git init initializes a git repository
